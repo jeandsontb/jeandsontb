@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jeandson
 ## Bem vindo(a) ao meu repositório de projetos 
 
-* 🔭 Migrando de carreira
+* 🔭 Rompendo os limites.
 * 🌱 Estudando Node JS, React JS, React Native, TypeScript, TypeOrm.
 * 😄 Pronouns: ele/dele
 
